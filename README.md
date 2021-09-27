@@ -26,8 +26,6 @@ ARTS 源于极客时间《左耳听风》专栏组织的一个学习打卡活动
 5. 打卡可以写在任何公开的地方(github, 自己的博客, 微信朋友圈, 其它写作平台)，但最好是方便其他人评论和探讨的地方
 
 ## 一些推荐的知识来源
-（欢迎大家持续补充，可以通过 Reeder 或者 Feedly 订阅 RSS）
+（欢迎大家持续补充，可以通过 Reeder 或者 Feedly 订阅 RSS，[wiki](https://github.com/zerotangyj/TEIRS-ARTS/wiki) 里也会经常更新一些推荐文章）
 1. https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html (Bob 大叔的博客)
 2. https://testing.googleblog.com/  谷歌关于“测试”的系列文章
-
-([wiki](https://github.com/zerotangyj/TEIRS-ARTS/wiki) 里也会经常更新一些推荐文章)
